@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1574975440 source:d:\panka\07 suli\02 prog\nhf\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	<stdbool.h>
+	"debugmalloc.h"
+	"nullazas.h"
+	"palya.h"
+	"generalas.h"
+
+1573486344 d:\panka\07 suli\02 prog\nhf\debugmalloc.h
+	<stdbool.h>
+	"debugmalloc-impl.h"
+
+1573486336 d:\panka\07 suli\02 prog\nhf\debugmalloc-impl.h
+	<stdbool.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdarg.h>
+	<process.h>
+	<unistd.h>
+
+1574975756 source:d:\panka\07 suli\02 prog\nhf\nullazas.c
+	<stdio.h>
+	<stdlib.h>
+	"debugmalloc.h"
+	"nullazas.h"
+	"palya.h"
+
+1574975756 d:\panka\07 suli\02 prog\nhf\nullazas.h
+
+1574975756 d:\panka\07 suli\02 prog\nhf\palya.h
+
+1574975756 source:d:\panka\07 suli\02 prog\nhf\palya.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"debugmalloc.h"
+	"nullazas.h"
+	"palya.h"
+
+1574974930 d:\panka\07 suli\02 prog\nhf\generalas.h
+
+1574975797 source:d:\panka\07 suli\02 prog\nhf\generalas.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"nullazas.h"
+
